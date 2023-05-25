@@ -33,7 +33,7 @@ Highlights: Made a chatbot using HTML, CSS and Javascript in my major project
 * Built functions such as parse_show_details() to scrape Show names, Release Dates, Ratings & URLs 
 * Stored 60 rows, 4 columns data into most_popular_tvShows.csv & top_tvshows.csv each using pandas
 
-### SQL Querying with Chinook Database (View)
+### SQL Querying with Chinook Database ([View](https://jovian.com/ankitkumar22may/sql-practice-assignment))
 * Analyzed database with 11 tables containing details about digital media using SQLite
 * Created multiple tables using different SQL joins, window, and aggregate functions
 * Ranked albums based on the highest number of tracks and discovered monthly sales percent changes
